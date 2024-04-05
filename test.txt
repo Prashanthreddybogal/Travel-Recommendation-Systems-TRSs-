@@ -1,0 +1,3 @@
+userid,art_galleries,dance_clubs,juice_bars,restaurants,museums,resorts,parks_picnic_spots,beaches,theaters,religious_institutions
+33,0.64,2,1.6,0.41,2.08,2.22,3.19,2.8,1.76,2.72
+
